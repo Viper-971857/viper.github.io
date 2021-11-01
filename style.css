@@ -18,7 +18,7 @@
 	height: 500px;
 	box-shadow: 0 0 40px 20px rgba(0, 0, 0, 0.26);
 	perspective: 1000px;
-	background-image: url('../image/rain.jpg');
+	background-image: url('rain.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
